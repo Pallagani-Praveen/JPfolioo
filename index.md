@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 def greet():
   print("Hello Friends")
 ```
-See [Soltuions](/pages) Here 
+See [Soltuions](pages) Here 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
