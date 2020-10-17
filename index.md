@@ -11,7 +11,7 @@ def greet():
   print("Hello Friends")
 ```
 See [Soltuions](pages/solutions.html) Here 
-[MD Solution Page](pages/solutions.md)
+[MD Solution Page](/solutions.md)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
