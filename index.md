@@ -7,11 +7,10 @@ My Personal Blog
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```python
-Syntax highlighted code block
-def hello():
-  print("Hello World")
+def greet():
+  print("Hello Friends")
 ```
-
+See [Soltuions](/pages) Here 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
