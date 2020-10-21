@@ -3,8 +3,9 @@
 My Personal Blog
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```diff
++ Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
 
 ```python
 def greet():
