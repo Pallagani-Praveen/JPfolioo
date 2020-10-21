@@ -1,5 +1,5 @@
-## solutions of todays challenge
-
+## Solutions Of Today's Challenge
+[Explanation Video Link](#) 
 ```python 
 class Solution(object):
     def asteroidCollision(self, asts):
@@ -22,4 +22,6 @@ class Solution(object):
         return stack
 ```
 
-[Explanation Video Link](#) 
+## [Happy Learning , Subscribe To My Youtube Channel](#)
+
+
